@@ -89,6 +89,7 @@ website:    http://www.themepunch.com
 /*-------------------------------------------------*/
 .navbar-default {
   background: #ffffff;
+  opacity: 0.8;
   border: none;
   transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
@@ -262,7 +263,7 @@ header.active .navbar-nav > li > a {
   padding: 25px 15px;
 }
 header.active .navbar-nav a.open-search {
-  padding: 25px 15px;
+  padding: 20px 10px;
 }
 header.active .navbar-nav a.open-search i {
   color: #666666;
@@ -3186,7 +3187,7 @@ footer {
   background: #222222;
 }
 footer .up-footer {
-  padding: 80px 0 60px;
+  padding: 20px 0 10px;
 }
 footer .up-footer h2 {
   color: #222222;
